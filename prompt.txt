@@ -1,0 +1,24 @@
+divide the code in 4 working parts and the code should be like if i combine 4 part it should be working
+
+Generate a complete C program for a 2D graphics editor using a 2D array of characters.
+
+Features:
+1. Draw Rectangle
+2. Draw Line
+3. Draw Triangle
+4. Draw Circle
+5. Display Picture
+6. Delete Object
+7. Modify Object
+8. Exit
+
+Requirements:
+- Use '*' for drawing and '_' for empty space.
+- Store the drawing in a 50x50 character array.
+- Implement separate functions for each shape.
+- Use loops and basic C concepts only.
+- Avoid advanced graphics libraries.
+- Include comments explaining each function.
+
+update the code it should include user input and it should run in my vscode terminal . code should be simple and easy .
+
